@@ -5,6 +5,9 @@ This repository contains adversarial prompts designed for research purposes in A
 ## Contents
 
 - `deepseek.txt` - FRENESIS adversarial prompt targeting model safety mechanisms
+- `magistral.txt` - ENI jailbreak prompt using role-playing and emotional manipulation
+
+**Note**: This repository contains prompt text files only. There is no executable code - these are text prompts designed to be used directly with LLM interfaces.
 
 ## Purpose
 
