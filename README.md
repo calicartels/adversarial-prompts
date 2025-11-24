@@ -72,3 +72,7 @@ When adding new adversarial prompts:
 2. Note which models/systems it targets
 3. Include reproduction steps
 4. Add appropriate warnings and ethical considerations
+
+## AI USAGE:
+
+No AI was used in this project for generating any content 
